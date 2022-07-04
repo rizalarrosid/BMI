@@ -35,4 +35,4 @@ class MyApp extends StatelessWidget {
       home: BmiDataScreen()
     );
   }
-}
+} // jajal
